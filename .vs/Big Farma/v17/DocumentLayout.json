@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Authorization\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:11:01.637Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.Designer.cs",
+              "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.Designer.cs",
+              "RelativeToolTip": "Authorization\\AuthorizationForm.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwE4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:03:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
+              "RelativeToolTip": "Authorization\\AuthorizationForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:03:28.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDbConection.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\UserDbConection.cs",
+              "RelativeDocumentMoniker": "Authorization\\UserDbConection.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\UserDbConection.cs",
+              "RelativeToolTip": "Authorization\\UserDbConection.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T12:55:25.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
