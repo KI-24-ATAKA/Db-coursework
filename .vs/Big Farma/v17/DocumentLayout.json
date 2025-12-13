@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\userdbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0435 \u0438\u043C\u044F 228\\source\\repos\\big farma\\authorization\\passwordcacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\passwordcacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F886E2B3-2173-4B67-9CE2-514DA7A21B6A}|Authorization\\Authorization.csproj|solutionrelative:authorization\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PasswordCacher.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\PasswordCacher.cs",
+              "RelativeDocumentMoniker": "Authorization\\PasswordCacher.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\PasswordCacher.cs",
+              "RelativeToolTip": "Authorization\\PasswordCacher.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T14:18:01.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
               "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.cs",
@@ -52,33 +69,33 @@
               "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.Designer.cs",
               "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.Designer.cs",
               "RelativeToolTip": "Authorization\\AuthorizationForm.Designer.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAqwE4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T12:03:53.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthorizationForm.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
               "RelativeDocumentMoniker": "Authorization\\AuthorizationForm.cs",
               "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\AuthorizationForm.cs",
               "RelativeToolTip": "Authorization\\AuthorizationForm.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T12:03:28.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserDbConection.cs",
               "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\UserDbConection.cs",
               "RelativeDocumentMoniker": "Authorization\\UserDbConection.cs",
               "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0435 \u0418\u043C\u044F 228\\source\\repos\\Big Farma\\Authorization\\UserDbConection.cs",
               "RelativeToolTip": "Authorization\\UserDbConection.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwCgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T12:55:25.855Z",
               "EditorCaption": ""

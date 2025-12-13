@@ -44,7 +44,12 @@ namespace Authorization
                 }
                 if (DB.LogIn(InputName.Text, InputPassword.Text, checkBoxIsAdmin.Checked))
                 {
-
+                    InputName.Clear();
+                    InputPassword.Clear();
+                    MessageBox.Show("Вход прошла успешно!",
+                       "Успех",
+                       MessageBoxButtons.OK,
+                       MessageBoxIcon.Information);
                 }
             };
             RegButton.Click += (e, sender) =>
@@ -65,7 +70,8 @@ namespace Authorization
                        MessageBoxIcon.Error);
                     return;
                 }
-                if (!DB.Registr(InputName.Text, InputPassword.Text))
+                bool isRegistrationSuccess = DB.Registr(InputName.Text, InputPassword.Text);
+                if (!isRegistrationSuccess)
                 {
                     MessageBox.Show("Такой пользователь уже существует",
                        "Ошибка",
@@ -73,14 +79,14 @@ namespace Authorization
                        MessageBoxIcon.Error);
                     return;
                 }
-                if (DB.Registr(InputName.Text, InputPassword.Text))
+                if (isRegistrationSuccess)
                 {
+                    InputName.Clear();
+                    InputPassword.Clear();
                     MessageBox.Show("Регистрация прошла успешно!",
                        "Успех",
                        MessageBoxButtons.OK,
                        MessageBoxIcon.Information);
-                    InputName.Text = "";
-                    InputPassword.Text = "";
                 }
             };
         }

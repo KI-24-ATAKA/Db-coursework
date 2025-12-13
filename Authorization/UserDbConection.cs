@@ -33,7 +33,7 @@ namespace Authorization
                             string encryptedPasswordFromDb = reader["Пароль"].ToString();
                             bool userIsAdmin = Convert.ToBoolean(reader["Роль администратор"]);
                             string decryptedPassword = passwordCacher.UncachePassword(encryptedPasswordFromDb);
-                            return (decryptedPassword != password) & (isAdmin == userIsAdmin);
+                            return (decryptedPassword == password) & (isAdmin == userIsAdmin);
                         }
                     }
                 }
