@@ -70,7 +70,7 @@ namespace Authorization
                        MessageBoxIcon.Error);
                     return;
                 }
-                bool isRegistrationSuccess = DB.Registr(InputName.Text, InputPassword.Text);
+                bool isRegistrationSuccess = DB.Register(InputName.Text, InputPassword.Text);
                 if (!isRegistrationSuccess)
                 {
                     MessageBox.Show("Такой пользователь уже существует",

@@ -1,0 +1,5 @@
+M:\dev\GitHub\Db-coursework\Models\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+M:\dev\GitHub\Db-coursework\Models\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+M:\dev\GitHub\Db-coursework\Models\obj\Debug\net10.0\Models.AssemblyInfo.cs
+M:\dev\GitHub\Db-coursework\Models\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+M:\dev\GitHub\Db-coursework\Models\obj\Debug\net10.0\Models.sourcelink.json

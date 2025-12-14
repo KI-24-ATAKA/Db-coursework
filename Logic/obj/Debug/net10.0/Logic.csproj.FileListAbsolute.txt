@@ -1,0 +1,6 @@
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.csproj.AssemblyReference.cache
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.AssemblyInfoInputs.cache
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.AssemblyInfo.cs
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.csproj.CoreCompileInputs.cache
+M:\dev\GitHub\Db-coursework\Logic\obj\Debug\net10.0\Logic.sourcelink.json

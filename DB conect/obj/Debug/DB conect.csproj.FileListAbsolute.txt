@@ -1,0 +1,6 @@
+M:\dev\GitHub\Db-coursework\DB conect\bin\Debug\DB conect.dll
+M:\dev\GitHub\Db-coursework\DB conect\bin\Debug\DB conect.pdb
+M:\dev\GitHub\Db-coursework\DB conect\obj\Debug\DB conect.csproj.AssemblyReference.cache
+M:\dev\GitHub\Db-coursework\DB conect\obj\Debug\DB conect.csproj.CoreCompileInputs.cache
+M:\dev\GitHub\Db-coursework\DB conect\obj\Debug\DB conect.dll
+M:\dev\GitHub\Db-coursework\DB conect\obj\Debug\DB conect.pdb

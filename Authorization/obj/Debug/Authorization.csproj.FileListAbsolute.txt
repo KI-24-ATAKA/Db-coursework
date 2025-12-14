@@ -8,3 +8,13 @@ C:\Users\Крутое Имя 228\source\repos\Big Farma\Authorization\bin\Debug\
 C:\Users\Крутое Имя 228\source\repos\Big Farma\Authorization\obj\Debug\Authorization.AuthorizationForm.resources
 C:\Users\Крутое Имя 228\source\repos\Big Farma\Authorization\obj\Debug\Authorization.exe
 C:\Users\Крутое Имя 228\source\repos\Big Farma\Authorization\obj\Debug\Authorization.pdb
+M:\dev\GitHub\Db-coursework\Authorization\bin\Debug\Authorization.exe.config
+M:\dev\GitHub\Db-coursework\Authorization\bin\Debug\Authorization.exe
+M:\dev\GitHub\Db-coursework\Authorization\bin\Debug\Authorization.pdb
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.csproj.AssemblyReference.cache
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.AuthorizationForm.resources
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.csproj.GenerateResource.cache
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.exe
+M:\dev\GitHub\Db-coursework\Authorization\obj\Debug\Authorization.pdb

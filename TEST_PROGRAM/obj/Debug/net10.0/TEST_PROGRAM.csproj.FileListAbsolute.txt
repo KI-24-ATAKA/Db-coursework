@@ -1,0 +1,6 @@
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.csproj.AssemblyReference.cache
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.AssemblyInfoInputs.cache
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.AssemblyInfo.cs
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.csproj.CoreCompileInputs.cache
+M:\dev\GitHub\Db-coursework\TEST_PROGRAM\obj\Debug\net10.0\TEST_PROGRAM.sourcelink.json

@@ -43,7 +43,7 @@ namespace Authorization
                 return false;
             }
         }
-        public bool Registr(string username, string password)
+        public bool Register(string username, string password)
         {
             if (!CanRegister(username))
                 return false;

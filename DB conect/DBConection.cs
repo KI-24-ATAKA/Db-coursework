@@ -1,12 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data;
+using System.Data.OleDb;
 
-namespace DB_conect
+public static class DatabaseConnection
 {
-    public class DBConection
+    private static readonly string connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=main_db.mdb;";
+
+    public static OleDbConnection GetConnection()
     {
+        return new OleDbConnection(connectionString);
     }
 }
